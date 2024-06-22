@@ -1,1 +1,3 @@
-Some content that confilcts
+# References
+
+* octocat 1 😈
